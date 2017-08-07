@@ -1,5 +1,6 @@
 {
   "name": "treemap-with-router",
+  "version": "0.0.1"
   "description": "An example for react-router-redux with d3's treemap.",
   "main": "./lib/index.js",
   "repository": {
